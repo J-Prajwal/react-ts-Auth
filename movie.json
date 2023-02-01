@@ -1,0 +1,167 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Then She Found Me",
+      "genre": "Comedy|Drama|Romance",
+      "release": 1993,
+      "poster": "http://dummyimage.com/215x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 2,
+      "title": "Secret",
+      "genre": "Drama|Fantasy|Romance",
+      "release": 1999,
+      "poster": "http://dummyimage.com/185x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 3,
+      "title": "Squaw Man, The",
+      "genre": "Drama|Western",
+      "release": 1999,
+      "poster": "http://dummyimage.com/229x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 4,
+      "title": "Something Wicked This Way Comes",
+      "genre": "Children|Drama|Fantasy|Mystery|Thriller",
+      "release": 2010,
+      "poster": "http://dummyimage.com/209x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 5,
+      "title": "Your Highness",
+      "genre": "Action|Adventure|Comedy|Fantasy",
+      "release": 2008,
+      "poster": "http://dummyimage.com/233x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 6,
+      "title": "Amber Lake ",
+      "genre": "Drama|Thriller",
+      "release": 2011,
+      "poster": "http://dummyimage.com/207x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 7,
+      "title": "Next Stop Wonderland",
+      "genre": "Comedy|Drama|Romance",
+      "release": 2009,
+      "poster": "http://dummyimage.com/139x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 8,
+      "title": "Ship of Fools",
+      "genre": "Drama",
+      "release": 2005,
+      "poster": "http://dummyimage.com/152x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 9,
+      "title": "Crooked Arrows",
+      "genre": "Drama",
+      "release": 2004,
+      "poster": "http://dummyimage.com/133x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 10,
+      "title": "Smokin' Aces",
+      "genre": "Action|Crime|Drama|Thriller",
+      "release": 1995,
+      "poster": "http://dummyimage.com/249x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 11,
+      "title": "Emperor",
+      "genre": "Drama|War",
+      "release": 1998,
+      "poster": "http://dummyimage.com/231x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 12,
+      "title": "Family Jewels, The (Eierdiebe)",
+      "genre": "Comedy|Drama|Romance",
+      "release": 2002,
+      "poster": "http://dummyimage.com/149x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 13,
+      "title": "Buster Keaton: A Hard Act to Follow",
+      "genre": "Documentary",
+      "release": 1998,
+      "poster": "http://dummyimage.com/140x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 14,
+      "title": "Head in the Clouds",
+      "genre": "Drama|Romance|War",
+      "release": 1985,
+      "poster": "http://dummyimage.com/162x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 15,
+      "title": "M for Mother (Mim mesle madar)",
+      "genre": "Drama",
+      "release": 2006,
+      "poster": "http://dummyimage.com/131x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 16,
+      "title": "Gangster No. 1",
+      "genre": "Action|Crime|Thriller",
+      "release": 2005,
+      "poster": "http://dummyimage.com/213x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 17,
+      "title": "Curly Top",
+      "genre": "Children|Musical|Romance",
+      "release": 1996,
+      "poster": "http://dummyimage.com/167x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 18,
+      "title": "3 Backyards",
+      "genre": "Drama",
+      "release": 2004,
+      "poster": "http://dummyimage.com/193x100.png/dddddd/000000"
+    },
+    {
+      "id": 19,
+      "title": "Blue Collar Comedy Tour: The Movie",
+      "genre": "Comedy|Documentary",
+      "release": 2008,
+      "poster": "http://dummyimage.com/121x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 20,
+      "title": "Little Man",
+      "genre": "Comedy",
+      "release": 2007,
+      "poster": "http://dummyimage.com/177x100.png/5fa2dd/ffffff"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "title": "Then She Found Me",
+      "genre": "Comedy|Drama|Romance",
+      "release": 1993,
+      "poster": "http://dummyimage.com/215x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 18,
+      "title": "3 Backyards",
+      "genre": "Drama",
+      "release": 2004,
+      "poster": "http://dummyimage.com/193x100.png/dddddd/000000"
+    },
+    {
+      "id": 15,
+      "title": "M for Mother (Mim mesle madar)",
+      "genre": "Drama",
+      "release": 2006,
+      "poster": "http://dummyimage.com/131x100.png/5fa2dd/ffffff"
+    }
+  ]
+}
